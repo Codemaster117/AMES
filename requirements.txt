@@ -1,4 +1,6 @@
 streamlit
+numpy
+scipy
 pygmo
 pykep
 matplotlib
