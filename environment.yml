@@ -1,0 +1,10 @@
+name: app
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - pykep
+  - pygmo
+  - matplotlib
+  
