@@ -1,4 +1,4 @@
-steamlit
+streamlit
 pygmo
 pykep
 matplotlob
